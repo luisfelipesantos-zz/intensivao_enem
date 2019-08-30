@@ -2,6 +2,7 @@
 
 This website was designed to support an event that prepare students to do the Nacional High School Exam (ENEM), which enable them to enter an university or college. 
 Besides, the system has 
+ - a webpage to register students 
  - an eletronic attendance list, in order to get students attendance during the event;
  - an online repository of content provided during the event;
  - and webpages to get student's questions and feedback;
